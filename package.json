@@ -1,0 +1,8 @@
+{
+  "name": "com.glass-vault-studio.demo.animation.integrations",
+  "version": "1.0.0",
+  "displayName": "Demo Animation Integrations",
+  "description": "A demo package for animation integrations.",
+  "unity": "2020.3",
+  "dependencies": {}
+}
